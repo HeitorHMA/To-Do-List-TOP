@@ -1,7 +1,7 @@
 {
   "name": "to-do-list-top",
   "version": "1.0.0",
-  "description": "To do list project made with the concepts learned from the odin project",
+  "description": "to do list app",
   "main": "index.js",
   "scripts": {
     "test": "git"
